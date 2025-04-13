@@ -2,7 +2,6 @@
 
 👀 I’m interested in 
  - C# 
- - .NET 
  - .NET Core
  - WPF 
  - Azure
